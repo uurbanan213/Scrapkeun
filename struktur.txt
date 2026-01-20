@@ -1,0 +1,7 @@
+shopify-scraper-web/
+├── app.py              # File Flask/Streamlit utama
+├── scraper.py          # Kode scraper asli Anda
+├── requirements.txt    # Dependencies
+├── railway.json        # Konfigurasi Railway
+├── Procfile           # Instruksi deployment
+└── templates/         # Folder untuk template HTML (jika pakai Flask)
